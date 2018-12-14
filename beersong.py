@@ -1,5 +1,5 @@
 """
-Remix of the beer song, from the tutorial book 'Head First Python', by Paul Barry. Funny song, great book (so far).
+Remix of the beer song program from the tutorial book 'Head First Python', by Paul Barry. Funny song and great book (so far).
 
 The Original program: http://python.itcarlow.ie/ed2/ch01/beersong.py
 The song: https://www.youtube.com/watch?v=u-lV0vrEWXw
