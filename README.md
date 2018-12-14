@@ -14,6 +14,8 @@ Also added the Try, except ValueError commands, to prevent it from stopping if y
 Finally, I did the thing with the last verse, just to have a different ending to it.
 Wanted to code the whole part in just a few lines by putting all the single words into a list and then print it with some kind of 'for x in' combined with a time.sleep interval, but couldn't find a convenient way of doing this.
 
+#Update, 14.12 - Found the cleaner way to print the last verse by adding it to a list (x) and printing it for i in x, with the time delay between prints
+
 
 I'd really appreciate some feedback, I'm new to this and really want to learn. Thanks
         
